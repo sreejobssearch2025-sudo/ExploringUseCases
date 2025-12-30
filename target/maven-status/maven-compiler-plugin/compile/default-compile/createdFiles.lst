@@ -1,0 +1,4 @@
+com\ProductsFilterSort\Model\Product.class
+com\ProductsFilterSort\Controller\ProductsFilterSortController.class
+com\ProductsFilterSort\Products\ProductsFilterSortApplication.class
+com\ProductsFilterSort\Service\ProductsService.class
